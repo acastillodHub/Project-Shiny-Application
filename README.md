@@ -9,7 +9,7 @@ Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitc
 
 Click the Below Link for the Application.
 
-https://sandboxamdslnao.labs.coursera.org/p/8fb39e7d/
+https://acastillod.shinyapps.io/Project-Shiny-Application/
 
 Click the Below Link for the Rpubs presentation.
 
